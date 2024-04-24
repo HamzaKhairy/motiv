@@ -62,7 +62,7 @@ const databaseConfig = {
 
 ### - Tembo DB
 - Environment Variables: .env (Place in the root directory)
-- Digital Certeficate file: ca.crt (Place in '...\\Motiv.Dev.App.API\\src\\config\\ca.crt')
+- Digital Certeficate file: ca.crt (Place in '...\\src\\config\\ca.crt')
 
 ``` 
 npm start
